@@ -4,9 +4,8 @@ Este proyecto forma parte del **Challenge de Ciencia de Datos de Alura LATAM**, 
 
 ## 📁 Archivos incluidos
 
-- `challenge_analicis_datos_python.py`: Script de análisis que incluye carga de datos, visualización y conclusiones.
-- 📊 Gráficos generados mediante `matplotlib` con un estilo visual futurista (fondo oscuro y colores neón).
-
+- `challenge_analicis_datos_python.py`: Script de análisis que incluye carga de datos, visualización y conclusiones con extension Python.
+- `Challenge_Modelado_datos_Python.ipynb`: Script de análisis que incluye carga de datos, visualización y conclusiones con extension JupyterNoteBook.
 ## 🔍 Análisis realizados
 
 1. **Facturación y Costos de Envío**
